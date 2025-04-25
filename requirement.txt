@@ -1,0 +1,3 @@
+opencv-python
+scokit-learn
+pywin32
