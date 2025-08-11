@@ -54,7 +54,7 @@ This project demonstrates:
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/adarshv2403/Smart-Voting-System.git
 
 
 2.Navigate to the project directory:
@@ -114,5 +114,6 @@ Charlie,Party C
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
 
 
