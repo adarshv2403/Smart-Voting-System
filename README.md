@@ -84,7 +84,7 @@ votes are stored in votes.csv for reference.
 
 After voting, the `votes.csv` file will look like:
 
-Name,Vote
+Name,Vote <br>
 Alice,Party A<br>
 Bob,Party B<br>
 Charlie,Party C
@@ -115,5 +115,6 @@ Charlie,Party C
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
 
 
