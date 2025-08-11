@@ -46,11 +46,11 @@ This project demonstrates:
  ├── **names.pkl** → Stores corresponding voter names.
 
 
-## 📊 Flowchart
+## Flowchart
 
 ![Project Flowchart](assets/smart_voting_flowchart.png)
 
-## 🔧 Installation
+## Installation
 
 1. Clone the repository:
    ```bash
@@ -104,7 +104,7 @@ ADHAAR NO ,PARTY,DATE,TIME <br>
 - **pickle** – Storing face encodings and names
 - **CSV** – Vote storage for transparency
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Implement a GUI for better user interaction
 - Add live video feed preview during face registration
@@ -112,9 +112,10 @@ ADHAAR NO ,PARTY,DATE,TIME <br>
 - Deploy as a web-based application for remote voting
 - Integrate OTP or multi-factor authentication
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
 
 
 
