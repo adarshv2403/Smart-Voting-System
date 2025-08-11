@@ -84,10 +84,10 @@ votes are stored in votes.csv for reference.
 
 After voting, the `votes.csv` file will look like:
 
-Name,Vote <br>
-Alice,Party A<br>
-Bob,Party B<br>
-Charlie,Party C
+ADHAAR NO ,PARTY,DATE,TIME <br>
+20041,Party A,25-04-25,11:24-32<br>
+20045,Party B,26-04-25,02:24-32<br>
+20057,Party C,27-04-25,06:24-32
 
 ## ⚠️ Important Notes
 
@@ -115,6 +115,7 @@ Charlie,Party C
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
 
 
 
