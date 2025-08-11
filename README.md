@@ -10,9 +10,9 @@ The system verifies voter identity through facial data and stores votes securely
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Project Structure](#project-structure)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Flowchart](#flowchart)
+4. [Flowchart](#flowchart)
+5. [Installation](#installation) 
+6. [Usage](#usage)
 7. [Technologies Used](#technologies-used)
 8. [Future Improvements](#future-improvements)
 9. [License](#license)
@@ -115,6 +115,7 @@ ADHAAR NO ,PARTY,DATE,TIME <br>
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
 
 
 
