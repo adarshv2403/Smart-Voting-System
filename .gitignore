@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# VSCode settings
+.vscode/
+
+# Sensitive data
+*.pkl
+votes.csv
+
+# OS-specific files
+.DS_Store
+Thumbs.db
