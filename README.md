@@ -96,7 +96,7 @@ ADHAAR NO ,PARTY,DATE,TIME <br>
 - Make sure your webcam is functional before running scripts.
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python 3.x** – Core programming language
 - **OpenCV** – Real-time face detection and webcam capture
@@ -115,6 +115,7 @@ ADHAAR NO ,PARTY,DATE,TIME <br>
 ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
 
 
 
